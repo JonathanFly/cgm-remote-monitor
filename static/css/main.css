@@ -141,8 +141,8 @@ a, a:visited, a:link {
 }
 
 .bgStatus .currentBG {
-  font-size: 120px;
-  line-height: 100px;
+  font-size: 200px;
+  line-height: 180px;
   text-decoration: line-through;
   vertical-align: middle;
 }
@@ -504,8 +504,8 @@ a, a:visited, a:link {
   }
 
   .bgStatus .currentBG {
-    font-size: 70px;
-    line-height: 60px;
+    font-size: 130px;
+    line-height: 130px;
   }
 
   .bgStatus .currentBG.bg-limit, .bgStatus .currentBG.icon-hourglass {
@@ -553,8 +553,8 @@ a, a:visited, a:link {
   }
 
   .bgStatus .currentBG {
-    font-size: 70px;
-    line-height: 70px;
+    font-size: 130px;
+    line-height: 130px;
   }
 
   .bgStatus .currentBG.bg-limit, .bgStatus .currentBG.icon-hourglass {
@@ -657,8 +657,8 @@ a, a:visited, a:link {
 
 @media (max-height: 480px) and (min-width: 400px) {
   .bgStatus .currentBG {
-    font-size: 70px;
-    line-height: 60px;
+    font-size: 130px;
+    line-height: 130px;
   }
 
   .bgStatus .currentBG.bg-limit, .bgStatus .currentBG.icon-hourglass {
@@ -701,8 +701,8 @@ a, a:visited, a:link {
   }
 
   .bgStatus .currentBG {
-    font-size: 60px;
-    line-height: 60px;
+    font-size: 120px;
+    line-height: 120px;
   }
 
   .bgStatus .currentBG.bg-limit, .bgStatus .currentBG.icon-hourglass {
